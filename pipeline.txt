@@ -1,3 +1,1 @@
 Both Declarative and Scripted Pipeline are DSLs  to describe portions of your software delivery pipeline. 
-Scripted Pipeline is written in a limited form of Groovy syntax.
-
